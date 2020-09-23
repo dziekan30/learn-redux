@@ -10,4 +10,4 @@ export const decrement = nr => {
     type: 'DECREMENT',
     payload: nr
   }
-} ...
+} 
